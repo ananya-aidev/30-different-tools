@@ -1,15 +1,15 @@
-# 🛠️ Tool 01: Ansible
+# 🛠 Tool 01: Ansible
 
 ## 📌 What is Ansible?
 Ansible is an open-source configuration management tool that automates software provisioning, configuration, and application deployment using YAML playbooks.
 
 
-## 🎯 Goal of This Demo
+## Goal of This Demo
 
 Install **Nginx** on the local machine using an Ansible playbook.
 
 
-## 🧰 Files in This Demo
+## Files in This Demo
 
 | File              | Purpose                            |
 |-------------------|------------------------------------|
@@ -23,4 +23,8 @@ Install **Nginx** on the local machine using an Ansible playbook.
 
 sudo apt update
 sudo apt install ansible -y
+
+### ✅ 2. Run the Playbook
+ansible-playbook -i hosts.ini install-nginx.yml
+
 
