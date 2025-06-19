@@ -45,18 +45,6 @@ Each tool includes a short explanation, hands-on example, and relevant code or c
 
 
 
-## 📁 Folder Structure
-30-different-devops-tools/
-├── tool-01-ansible/
-│ ├── install-nginx.yml
-│ ├── hosts.ini
-│ └── README.md
-├── tool-02-kubernetes/
-│ └── nginx-deployment.yaml
-
-
-
-
 ## 📘 What’s Included for Each Tool
 
 Each folder includes:
