@@ -49,8 +49,6 @@ Each tool includes a short explanation, hands-on example, and relevant code or c
 
 Each folder includes:
 - 🔹 **Tool explanation**
-- ⚙️ **Hands-on config (YAML, JSON, Shell, etc.)**
-- 📸 *(Optional)* Output screenshot or terminal result
 - 📝 **Summary README.md for each tool**
 
 
